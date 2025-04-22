@@ -46,9 +46,14 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![WhatsApp Image 2025-04-22 at 10 17 28 AM](https://github.com/user-attachments/assets/4293523c-b355-4444-8a89-7336d1e90828)
 
-### Name:
-### Register Number:
+![Screenshot 2025-04-22 100007](https://github.com/user-attachments/assets/f40fb6aa-d993-40d8-85cb-359582a5575e)
+
+
+
+### Name: SRINITHI MUTHUKUMAR
+### Register Number: 212224240161
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
